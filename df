@@ -1,0 +1,59 @@
+[33mcommit 324db975d96c5ca33fc027c95203452bdc142c11[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/StartedAppiumwork[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c5a9fc7 6d05fb5
+Author: Ramyasaran21 <140626476+Ramyasaran21@users.noreply.github.com>
+Date:   Mon Apr 29 14:51:40 2024 -0400
+
+    Merge pull request #2 from Ramyasaran21/StartedAppiumwork
+    
+    Started Appium folder
+
+[33mcommit c5a9fc77efb61e018a7d93f1975aec8f987a6ac1[m
+Merge: 2400968 94b8417
+Author: Ramyasaran21 <140626476+Ramyasaran21@users.noreply.github.com>
+Date:   Mon Apr 29 14:51:29 2024 -0400
+
+    Merge pull request #3 from Ramyasaran21/APPIUM_POC
+    
+    Appium poc
+
+[33mcommit 6d05fb5ee44d774d5f623be6f552b398de7bd843[m
+Author: saranlab8760 <testlabcomp@gmail.com>
+Date:   Mon Apr 29 14:45:12 2024 -0400
+
+    added config files
+
+[33mcommit 94b84176ea93bef9c365f033bb152e9ca2db1255[m[33m ([m[1;36mHEAD -> [m[1;32mAPPIUM_POC[m[33m, [m[1;31morigin/APPIUM_POC[m[33m)[m
+Author: ramyasaran21 <ramyasaran21@gmail.com>
+Date:   Mon Apr 29 08:06:32 2024 -0400
+
+    added line three
+
+[33mcommit 5aff9e205d040bed7be9c088823f95c3e8d3a28b[m
+Author: ramyasaran21 <ramyasaran21@gmail.com>
+Date:   Mon Apr 29 08:05:15 2024 -0400
+
+    Day1 local change
+
+[33mcommit dd38adb4c09a6c8f695eb47b31d502a5de413695[m
+Author: saranlab8760 <testlabcomp@gmail.com>
+Date:   Mon Apr 29 07:43:05 2024 -0400
+
+    Started Appium folder
+
+[33mcommit 240096899f895d20944a7b2e4f0e9fd3a9939a18[m[33m ([m[1;32mmaster[m[33m)[m
+Author: ramyasaran21 <ramyasaran21@gmail.com>
+Date:   Mon Apr 29 07:14:07 2024 -0400
+
+    ramya commit 1
+
+[33mcommit caf1de7fb678f6b1a513acc2da1e5e94ec70c41a[m
+Author: phoenixlab369@gmail.com <phoenix@369>
+Date:   Mon Apr 29 06:27:43 2024 -0400
+
+    Added info about users in readme - Commit-2
+
+[33mcommit cc1324a833f114597eae153f6e81a0d43556d738[m
+Author: phoenixlab369@gmail.com <phoenix@369>
+Date:   Mon Apr 29 06:24:47 2024 -0400
+
+    Created Readme txt - Commit-1
